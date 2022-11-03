@@ -1,0 +1,18 @@
+{
+  "name": "mrbeef777 ipa repo",
+  "identifier": "dev.mrbeef777.repo",
+  "sourceUrl": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777.json/main/repo.json",
+  "apps": [
+    {
+      "title": "StarVpn",
+      "identifier": "com.peach.app",
+      "developerName": "Starvpn x mrbeef777repo",
+      "version": "3.6.0",
+      "versionDate": "2022-11-03",
+      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Star.Vpn.3.6.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/starvpn.jpg",
+      "localizedDescription": "StarVpn 3.6.0 will only work with certs with the right entitlements",
+      "size": "8115978.24"
+    }
+  ]
+}
