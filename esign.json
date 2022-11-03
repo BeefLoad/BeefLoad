@@ -1,7 +1,7 @@
 {
   "name": "mrbeef777 ipa repo",
   "identifier": "dev.mrbeef777.repo",
-  "sourceUrl": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777.json/main/repo.json",
+  "sourceUrl": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/main/esign.json",
   "apps": [
     {
       "title": "StarVpn",
