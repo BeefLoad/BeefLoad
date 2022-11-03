@@ -1,18 +1,62 @@
 {
   "name": "mrbeef777 ipa repo",
   "identifier": "dev.mrbeef777.repo",
-  "sourceUrl": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/main/esign.json",
+  "sourceUrl": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777.json/main/repo.json",
   "apps": [
     {
-      "title": "StarVpn",
+      "name": "StarVpn",
       "identifier": "com.peach.app",
-      "developerName": "Starvpn x mrbeef777repo",
+      "developerName": "Starvpn x mrbeef777",
       "version": "3.6.0",
       "versionDate": "2022-11-03",
       "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Star.Vpn.3.6.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/starvpn.jpg",
       "localizedDescription": "StarVpn 3.6.0 will only work with certs with the right entitlements",
       "size": "8115978.24"
+    },
+    {
+      "name": "Bazaart",
+      "identifier": "co.bazaart.app",
+      "developerName": "Bazaart x mrbeef777",
+      "version": "9.2.0",
+      "versionDate": "2022-11-03",
+      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Bazaart_9.2.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/bazaart.jpg",
+      "localizedDescription": "Bazzart Premium Unlocked",
+      "size": "49314529.28"
+    },
+    {
+      "name": "Enmity",
+      "identifier": "com.hammerandchisel.discord",
+      "developerName": "Enmity x mrbeef777",
+      "version": "1.51.0",
+      "versionDate": "2022-11-03",
+      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Discord.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/discord.jpg",
+      "localizedDescription": "Enmity (allows to install themes and plugins) x Plumpy icons and Custom font",
+      "size": "77793853.44"
+    },
+    {
+      "name": "InstaSpring",
+      "identifier": "org.haxi0.InstaSpring",
+      "developerName": "haxi0 x mrbeef777",
+      "version": "1.0",
+      "versionDate": "2022-11-03",
+      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/InstaSpring.1.0.Fix.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/InstaSpring.png",
+      "localizedDescription": "iOS app that immediately resprings your Device after you open it (IOS 13 AND UP)",
+      "size": "219432.96"
+    },
+    {
+      "name": "Youtube",
+      "identifier": "com.google.ios.youtube",
+      "developerName": "uYouPlus x mrbeef777",
+      "version": "17.42.7",
+      "versionDate": "2022-11-03",
+      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/uYouPlus_17.42.7_2.1.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/youtube.jpg",
+      "localizedDescription": "uYouPlus v17.42.7-2.1",
+      "size": "114798100.48"
     }
   ]
 }
