@@ -29,12 +29,12 @@
       "name": "Enmity",
       "identifier": "com.hammerandchisel.discord",
       "developerName": "Enmity x mrbeef777",
-      "version": "1.51.0",
-      "versionDate": "2022-11-03",
+      "version": "1.53.0",
+      "versionDate": "2022-11-09",
       "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Discord.ipa",
       "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/discord.jpg",
       "localizedDescription": "Enmity (allows to install themes and plugins) x Plumpy icons and Custom font",
-      "size": "77793853.44"
+      "size": "79817605.12"
     },
     {
       "name": "InstaSpring",
