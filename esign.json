@@ -51,12 +51,12 @@
       "name": "Youtube",
       "identifier": "com.google.ios.youtube",
       "developerName": "uYouPlus x mrbeef777",
-      "version": "17.42.7",
+      "version": "17.43.1",
       "versionDate": "2022-11-03",
-      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/uYouPlus_17.42.7_2.1.ipa",
+      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/uYouPlus_17.43.1_2.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/youtube.jpg",
-      "localizedDescription": "uYouPlus v17.42.7-2.1",
-      "size": "114798100.48"
+      "localizedDescription": "uYouPlus v17.43.1_2.1",
+      "size": "115343360"
     }
   ]
 }
