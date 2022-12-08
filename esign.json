@@ -57,6 +57,17 @@
       "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/youtube.jpg",
       "localizedDescription": "uYouPlus v17.43.1_2.1",
       "size": "115018301.44"
+    },
+    {
+      "name": "CamCord",
+      "identifier": "com.hammerandchisel.discord",
+      "developerName": "AlexSpaces",
+      "version": "157",
+      "versionDate": "2022-12-08",
+      "downloadURL": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Camcord157.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/CC.jpg",
+      "localizedDescription": "CamCord custom version of discord",
+      "size": "78181826.56"
     }
   ]
 }
