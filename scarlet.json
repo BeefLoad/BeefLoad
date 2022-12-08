@@ -1,0 +1,53 @@
+{
+  "META": {
+    "repoName": "mrbeef777 ipa repo",
+    "repoIcon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/repo-icon.jpeg"
+  },
+  "apps": [
+    {
+      "name": "StarVpn",
+      "version": "3.6.0",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/starvpn.jpg",
+      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Star.Vpn.3.6.0.ipa",
+      "bundleID": "com.peach.app",
+      "category": "apps",
+      "description": "StarVpn 3.6.0 will only work with certs with the right entitlements"
+    },
+    {
+      "name": "Bazaart",
+      "version": "9.2.3",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/bazaart.jpg",
+      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Bazaart_9.3.2.ipa",
+      "bundleID": "co.bazaart.app",
+      "category": "apps",
+      "description": "Bazzart Premium Unlocked"
+    },
+    {
+      "name": "Enmity",
+      "version": "1.53.0",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/discord.jpg",
+      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Discord.ipa",
+      "bundleID": "com.hammerandchisel.discord",
+      "category": "apps",
+      "description": "Enmity (allows to install themes and plugins) x Plumpy icons and Custom font"
+    },
+    {
+      "name": "InstaSpring",
+      "version": "1.0",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/InstaSpring.png",
+      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/InstaSpring.1.0.Fix.ipa",
+      "bundleID": "org.haxi0.InstaSpring",
+      "category": "apps",
+      "description": "iOS app that immediately resprings your Device after you open it (IOS 13 AND UP)"
+    },
+    {
+      "name": "Youtube",
+      "version": "17.43.1",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/youtube.jpg",
+      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/uYouPlus_17.43.1_2.1.ipa",
+      "bundleID": "com.google.ios.youtube",
+      "category": "apps",
+      "description": "uYouPlus v17.43.1_2.1"
+    }
+  ]
+}
