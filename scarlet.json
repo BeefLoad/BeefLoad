@@ -10,7 +10,7 @@
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/starvpn.jpg",
       "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Star.Vpn.3.6.0.ipa",
       "bundleID": "com.peach.app",
-      "category": "apps",
+      "category": "Tools",
       "description": "StarVpn 3.6.0 will only work with certs with the right entitlements....So prob wont work for yoy"
     },
     {
@@ -19,7 +19,7 @@
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/bazaart.jpg",
       "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Bazaart_9.3.2.ipa",
       "bundleID": "co.bazaart.app",
-      "category": "apps",
+      "category": "Social",
       "description": "Bazzart Premium Unlocked"
    
     },
@@ -29,7 +29,7 @@
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/InstaSpring.png",
       "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/InstaSpring.1.0.Fix.ipa",
       "bundleID": "org.haxi0.InstaSpring",
-      "category": "apps",
+      "category": "Tools",
       "description": "iOS app that immediately resprings your Device after you open it (IOS 13 AND UP)"
     },
     {
@@ -38,7 +38,7 @@
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/youtube.jpg",
       "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/uYouPlus_17.43.1_2.1.ipa",
       "bundleID": "com.google.ios.youtube",
-      "category": "apps",
+      "category": "Social",
       "description": "uYouPlus v17.43.1_2.1"
     },
     {
@@ -47,8 +47,8 @@
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/CC.jpg",
       "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Camcord157.ipa",
       "bundleID": "com.hammerandchisel.discord",
-      "category": "apps",
-      "description": "CamCord custom version of discord"
+      "category": "Social",
+      "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord Messaging Evolved"
     },
     {
       "name": "",
