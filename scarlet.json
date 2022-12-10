@@ -1,7 +1,7 @@
 {
   "META": {
-    "repoName": "mrbeef777 ipa repo",
-    "repoIcon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/repo-icon.jpeg"
+    "repoName": "BeefLoad",
+    "repoIcon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/PNG_image.png"
   },
   "apps": [
     {
@@ -11,7 +11,7 @@
       "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Star.Vpn.3.6.0.ipa",
       "bundleID": "com.peach.app",
       "category": "apps",
-      "description": "StarVpn 3.6.0 will only work with certs with the right entitlements"
+      "description": "StarVpn 3.6.0 will only work with certs with the right entitlements....So prob wont work for yoy"
     },
     {
       "name": "Bazaart",
