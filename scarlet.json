@@ -51,13 +51,13 @@
       "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord Messaging Evolved"
     },
     {
-      "name": "",
-      "version": "",
+      "name": "ITorrent",
+      "version": "1.8.3",
       "icon": "",
-      "down": "",
+      "down": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
       "bundleID": "",
-      "category": "apps",
-      "description": ""
+      "category": "Tools",
+      "description": "Torrent Client "
     }
   ]
 }
