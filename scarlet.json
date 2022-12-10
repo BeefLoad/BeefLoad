@@ -55,7 +55,7 @@
       "version": "1.8.3",
       "icon": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
       "down": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
-      "bundleID": "",
+      "bundleID": "com.bittorrent.torrent",
       "category": "Tools",
       "description": "Torrent Client"
     }
