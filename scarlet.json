@@ -58,6 +58,15 @@
       "bundleID": "com.bittorrent.torrent",
       "category": "Tools",
       "description": "Torrent Client"
+    },
+    {
+      "name": "Flappy Bird",
+      "version": "4.3",
+      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/flappybird-4.3.ipa",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/Flappybird.png",
+      "bundleID": "org.bradonplank.flappybird.ipa",
+      "category": "Shits and Giggles",
+      "description": "Bro its fucking flappy bird why you need a description"
     }
   ]
 }
