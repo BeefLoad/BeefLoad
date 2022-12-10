@@ -21,15 +21,7 @@
       "bundleID": "co.bazaart.app",
       "category": "apps",
       "description": "Bazzart Premium Unlocked"
-    },
-    {
-      "name": "Enmity",
-      "version": "1.53.0",
-      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/discord.jpg",
-      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Discord.ipa",
-      "bundleID": "com.hammerandchisel.discord",
-      "category": "apps",
-      "description": "Enmity (allows to install themes and plugins) x Plumpy icons and Custom font"
+   
     },
     {
       "name": "InstaSpring",
