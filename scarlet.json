@@ -49,6 +49,10 @@
       "bundleID": "com.hammerandchisel.discord",
       "category": "Social",
       "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord Messaging Evolved"
+      "contact": {
+			"web": "GitHub.com/AlexSpaces",
+			"twitter": "https://twitter.com/twickdrepo"
+		}
     },
     {
       "name": "ITorrent",
