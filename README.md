@@ -1,5 +1,5 @@
- for scarlet 
-· https://github.com/Mrbeef777/BeefLoad/blob/main/scarlet.json
-
-Shorter Url · https://tinyurl.com/BeefLoad-Scarlet
-
+Hello!  
+Welcome To BeefLoad  
+Lets Get You Started Now   
+Shal we? Click To Get Started   
+http://Beefload.ga   
