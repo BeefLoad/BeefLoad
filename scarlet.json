@@ -7,7 +7,7 @@
     {
       "name": "StarVpn",
       "version": "3.6.0",
-      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/starvpn.jpg",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/starvpn.jpg",
       "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/Star.Vpn.3.6.0.ipa",
       "bundleID": "com.peach.app",
       "category": "Tools",
@@ -16,7 +16,7 @@
     {
       "name": "Bazaart",
       "version": "9.4.1",
-      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/bazaart.jpg",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/bazaart.jpg",
       "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/Bazaart_9.4.1.ipa",
       "bundleID": "co.bazaart.app",
       "category": "Shits and Giggles",
