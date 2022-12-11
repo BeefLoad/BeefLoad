@@ -1,14 +1,14 @@
 {
   "META": {
     "repoName": "BeefLoad",
-    "repoIcon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/PNG_image.png"
+    "repoIcon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/BeefLoad.png"
   },
   "apps": [
     {
       "name": "StarVpn",
       "version": "3.6.0",
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/starvpn.jpg",
-      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Star.Vpn.3.6.0.ipa",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/Star.Vpn.3.6.0.ipa",
       "bundleID": "com.peach.app",
       "category": "Tools",
       "description": "StarVpn 3.6.0 will only work with certs with the right entitlements....So prob wont work for you"
@@ -17,17 +17,16 @@
       "name": "Bazaart",
       "version": "9.2.3",
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/bazaart.jpg",
-      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Bazaart_9.3.2.ipa",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/Bazaart_9.3.2.ipa",
       "bundleID": "co.bazaart.app",
       "category": "Shits and Giggles",
       "description": "Bazzart Premium Unlocked"
-   
     },
     {
       "name": "InstaSpring",
       "version": "1.0",
-      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/InstaSpring.png",
-      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/InstaSpring.1.0.Fix.ipa",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/InstaSpring.png",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/InstaSpring.1.0.Fix.ipa",
       "bundleID": "org.haxi0.InstaSpring",
       "category": "Tools",
       "description": "iOS app that immediately resprings your Device after you open it (IOS 13 AND UP)"
@@ -35,8 +34,8 @@
     {
       "name": "uYouPlus",
       "version": "17.43.1",
-      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/youtube.jpg",
-      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/uYouPlus_17.43.1_2.1.ipa",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/youtube.jpg",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/uYouPlus_17.43.1_2.1.ipa",
       "bundleID": "com.google.ios.youtube",
       "category": "Social",
       "description": "uYouPlus v17.43.1_2.1"
@@ -44,21 +43,21 @@
     {
       "name": "CamCord",
       "version": "157",
-      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/CC.jpg",
-      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/Camcord157.ipa",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/CC.jpg",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/Camcord157.ipa",
       "bundleID": "com.hammerandchisel.discord",
       "category": "Social",
-      "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord Messaging Evolved"
+      "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord Messaging Evolved",
       "contact": {
-			"web": "GitHub.com/AlexSpaces",
-			"twitter": "https://twitter.com/twickdrepo"
-		}
+        "web": "GitHub.com/AlexSpaces",
+        "twitter": "https://twitter.com/twickdrepo"
+      }
     },
     {
       "name": "ITorrent",
       "version": "1.8.3",
-      "icon": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
-      "down": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/ITorrent-icon.png",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/iTorrent.ipa",
       "bundleID": "com.bittorrent.torrent",
       "category": "Tools",
       "description": "Torrent Client"
@@ -66,11 +65,11 @@
     {
       "name": "Flappy Bird",
       "version": "4.3",
-      "down": "https://github.com/Mrbeef777/mrbeef777-ipa-repos/releases/download/ipas/flappybird-4.3.ipa",
-      "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/Flappybird.png",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/Flappybird.png",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/flappybird-4.3.ipa",
       "bundleID": "org.bradonplank.flappybird.ipa",
-      "category": "Shits and Giggles",
-      "description": "Bro its fucking flappy bird why you need a description"
+      "category": "Games",
+      "description": "The real FlappyBird"
     }
   ]
 }
