@@ -15,9 +15,9 @@
     },
     {
       "name": "Bazaart",
-      "version": "9.2.3",
+      "version": "9.4.1",
       "icon": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777-ipa-repos/icons/bazaart.jpg",
-      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/Bazaart_9.3.2.ipa",
+      "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/Bazaart_9.4.1.ipa",
       "bundleID": "co.bazaart.app",
       "category": "Shits and Giggles",
       "description": "Bazzart Premium Unlocked"
@@ -49,7 +49,7 @@
       "category": "Social",
       "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord Messaging Evolved",
       "contact": {
-        "web": "GitHub.com/AlexSpaces",
+        "web": "https://github.com/AlexSpaces",
         "twitter": "https://twitter.com/twickdrepo"
       }
     },
