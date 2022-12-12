@@ -34,7 +34,7 @@
     {
       "name": "uYouPlus",
       "version": "17.43.1",
-      "icon": "https://i0.wp.com/www.droidopinions.com/wp-content/uploads/2022/02/135612614-3d3138cb-2a3d-4ed1-9244-905bab8f5c9f.png?fit=939%2C490&ssl=1",
+      "icon": "https://raw.githubusercontent.com/Mrbeef777/BeefLoad/icons/youtube.jpg",
       "down": "https://github.com/Mrbeef777/BeefLoad/releases/download/ipas/uYouPlus_17.43.1_2.1.ipa",
       "bundleID": "com.google.ios.youtube",
       "category": "Social",
