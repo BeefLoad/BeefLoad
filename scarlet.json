@@ -127,34 +127,34 @@
             ]
          },
          {
-          	"name": "LastPass",
-			"version": "4.8.0",
-			"icon": "https://bit.ly/3zG4vpj",
-			"down": "https://instahub.app/ipas/LastPass++.ipa.ipa",
-			"dev": "LogMeIn ,INC.",
-			"category": "Tweaked Apps",
-			"bundleID": "app.instahub.lastpass",
-			"description": "LastPass is a freemium password manager that stores encrypted passwords online. The standard version of LastPass comes with a web interface, but also includes plugins for various web browsers and apps for many smartphones. It also includes support for bookmarklets. LogMeIn, Inc. acquired LastPass in October 2015.",
-			"contact": [
-				"https://www.lastpass.com/",
-				"https://twitter.com/LastPass"
-			]
-		},
-		{
-			"name": "Clip",
-			"version": "1.0",
-			"icon": "https://bit.ly/3kPpteX",
-			"down": "https://instahub.app/ipas/clip.ipa",
-			"dev": "Riley Testut",
-			"category": "Tweaked Apps",
-			"bundleID": "app.instahub.clip",
-			"description": "Clip is a clipboard manager for iOS that can run in the background indefinitely, listening for changes to the clipboard and saving your clippings for later use. Normally this would be impossible without jailbreaking, but Clip uses several workarounds to achieve this functionality within the constraints imposed by iOS. Unfortunately, despite working just fine these workarounds are all against App Store rulesâ€¦which is what makes Clip perfect for AltStore ðŸŽ‰.",
-			"contact": [
-				"http://rileytestut.com/blog/2020/06/17/introducing-clip/",
-				"https://twitter.com/rileytestut"
-			]
-		},
-		{
+          "name": "LastPass",
+	"version": "4.8.0",
+	"icon": "https://bit.ly/3zG4vpj",
+	"down": "https://instahub.app/ipas/LastPass++.ipa.ipa",
+	"dev": "LogMeIn ,INC.",
+	"category": "Tweaked Apps",
+	"bundleID": "app.instahub.lastpass",
+	"description": "LastPass is a freemium password manager that stores encrypted passwords online. The standard version of LastPass comes with a web interface, but also includes plugins for various web browsers and apps for many smartphones. It also includes support for bookmarklets. LogMeIn, Inc. acquired LastPass in October 2015.",
+	"contact": [
+		"https://www.lastpass.com/",
+		"https://twitter.com/LastPass"
+	]
+	},
+	{
+	"name": "Clip",
+	"version": "1.0",
+	"icon": "https://bit.ly/3kPpteX",
+	"down": "https://instahub.app/ipas/clip.ipa",
+	"dev": "Riley Testut",
+	"category": "Tweaked Apps",
+	"bundleID": "app.instahub.clip",
+	"description": "Clip is a clipboard manager for iOS that can run in the background indefinitely, listening for changes to the clipboard and saving your clippings for later use. Normally this would be impossible without jailbreaking, but Clip uses several workarounds to achieve this functionality within the constraints imposed by iOS. Unfortunately, despite working just fine these workarounds are all against App Store rulesâ€¦which is what makes Clip perfect for AltStore ðŸŽ‰.",
+	"contact": [
+		"http://rileytestut.com/blog/2020/06/17/introducing-clip/",
+		"https://twitter.com/rileytestut"
+	]
+	},
+	{
 			"name": "Deezer",
 			"version": "14.19.5",
 			"icon": "https://bit.ly/3AbVPH2",
