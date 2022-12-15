@@ -45,12 +45,13 @@
       "version": "157",
       "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/CC.jpg",
       "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/Camcord157.ipa",
+      "dev": "Alex V / CamCordDev",
       "bundleID": "com.hammerandchisel.discord",
       "category": "Social",
       "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord Messaging Evolved",
       "contact": {
         "web": "https://github.com/AlexSpaces",
-        "twitter": "https://twitter.com/twickdrepo"
+        "twitter": "https://twitter.com/CamCordDev"
       }
     },
     {
@@ -132,7 +133,7 @@
 	"icon": "https://bit.ly/3zG4vpj",
 	"down": "https://instahub.app/ipas/LastPass++.ipa.ipa",
 	"dev": "LogMeIn ,INC.",
-	"category": "Tweaked Apps",
+	"category": "Tools",
 	"bundleID": "app.instahub.lastpass",
 	"description": "LastPass is a freemium password manager that stores encrypted passwords online. The standard version of LastPass comes with a web interface, but also includes plugins for various web browsers and apps for many smartphones. It also includes support for bookmarklets. LogMeIn, Inc. acquired LastPass in October 2015.",
 	"contact": [
@@ -146,7 +147,7 @@
 	"icon": "https://bit.ly/3kPpteX",
 	"down": "https://instahub.app/ipas/clip.ipa",
 	"dev": "Riley Testut",
-	"category": "Tweaked Apps",
+	"category": "Tools",
 	"bundleID": "app.instahub.clip",
 	"description": "Clip is a clipboard manager for iOS that can run in the background indefinitely, listening for changes to the clipboard and saving your clippings for later use. Normally this would be impossible without jailbreaking, but Clip uses several workarounds to achieve this functionality within the constraints imposed by iOS. Unfortunately, despite working just fine these workarounds are all against App Store rulesâ€¦which is what makes Clip perfect for AltStore ðŸŽ‰.",
 	"contact": [
@@ -160,7 +161,7 @@
 			"icon": "https://bit.ly/3AbVPH2",
 			"down": "https://alphasign.fun/cercube5_signed.ipa",
 			"dev": "DEEZER SA",
-			"category": "Tweaked Apps",
+			"category": "Music",
 			"bundleID": "app.instahub.deezer",
 			"description": "Deezer is a French online music streaming service. It allows users to listen to music content from record labels, including Universal Music Group, Sony Music and Warner Music Group as well as podcasts on various devices online or offline.",
 			"contact": [
@@ -173,8 +174,8 @@
 			"version": "2.4.9.2",
 			"icon": "https://bit.ly/3yHHTE8",
 			"down": "https://instahub.app/ipas/mediaboxhd.ipa",
-			"dev": "MediaBox HD",
-			"category": "Tweaked Apps",
+			"dev": "me",
+			"category": "Medi",
 			"bundleID": "app.instahub.mediabox",
 			"description": "MediaBox HD- The Best Entertainment App For You And Your Family - MediaBox HD | The best place to watch movies & show for FREE!.",
 			"contact": [
@@ -188,7 +189,7 @@
             "icon": "https://www.iphonecake.com/app/icon.png",
             "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
             "dev": "iPhoneCake.com",
-            "category": "Tweaked Apps",
+            "category": "Shits and Giggles",
             "description": "An example of Scarlet Tweak Injection !",
             "bundleID": "com.iphonecake.appcakej",
             "debs": [
@@ -211,7 +212,7 @@
 		"version": "8.5.53",
 		"icon": "https://api.starfiles.co/direct/ebZBsPSKAWuZ",
 		"down": "https://resources.usescarlet.com/repo/IPAs/SpotifySpos.ipa",
-		"category": "Tweaked Apps",
+		"category": "Music",
 		"description": "Sposify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client"
 	},
@@ -220,7 +221,7 @@
 		"version": "8.5.65",
 		"icon": "https://api.starfiles.co/direct/ebZBsPSKAWuZ",
 		"down": "https://resources.usescarlet.com/repo/IPAs/SpotifySpos.ipa",
-		"category": "Tweaked Apps",
+		"category": "Music",
 		"description": "Sposify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client"
 	},
@@ -229,7 +230,7 @@
 		"version": "187.0",
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
-		"category": "Tweaked Apps",
+		"category": "Social",
 		"bundleID": "com.rhino.InstagramApp"
     }
   ]
