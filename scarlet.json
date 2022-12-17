@@ -93,7 +93,7 @@
     {
         "name": "Twitter",
         "version": "9.34.6",
-        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Spotify.png",
+        "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/Twitter.png",
         "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Twitter_9.34.6_BHTwitter_3.3.3.ipa",
         "bundleID": "com.atebits.Tweetie2",
         "category": "Social",
