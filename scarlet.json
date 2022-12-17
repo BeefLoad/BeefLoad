@@ -98,6 +98,15 @@
         "bundleID": "com.atebits.Tweetie2",
         "category": "Social",
         "description": "BHtwitter"
+    },
+    {
+        "name": "Spotify",
+        "version": "8.7.70",
+        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Spotify.jpg",
+        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Spotilife.ipa",
+        "bundleID": "com.spotify.client",
+        "category": "music",
+        "desc": "with Spotilife 1.8"
     }
   ]
 }
