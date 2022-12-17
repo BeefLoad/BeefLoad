@@ -89,6 +89,18 @@
         "bundleID": "com.foundry63.tailor",
         "category": "Tools",
         "desc": "Cracked with Satella (allow to merge screenshots for 1 big screenshot)"
+    },
+    {
+        "name": "Streamer iOS App",
+        "version": "1.2.1",
+        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Streamer.png",
+        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Tailor_2.0.4.ipa",
+        "category": "Media",
+        "description": "App for Streaming Movies and TV shows on iOS and tvOS\n\nStream all TV shows and Movies from multiple websites without any annoying ads\nSupports Chromecast to stream to FireTV and Chromecasts\nSupports multi-language subtitles for iOS and tvOS\nFavorite functionality to quickly access your favorite shows and movies\n",
+        "bundleID": "com.mo.streamer.ios",
+        "appstore": "com.mo.streamer.ios",
+        "contact": {
+            "web": "https://github.com/StreamerApp/Streamer/issues"   
     }
   ]
 }
