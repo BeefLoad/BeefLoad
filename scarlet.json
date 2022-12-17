@@ -92,7 +92,7 @@
     },
     {
         "name": "Streamer iOS App",
-        "version": "1.2.1",
+        "version": "1.1",
         "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Streamer.png",
         "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Tailor_2.0.4.ipa",
         "category": "Media",
