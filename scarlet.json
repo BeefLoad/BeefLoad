@@ -105,7 +105,7 @@
         "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Spotify.jpg",
         "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Spotilife.ipa",
         "bundleID": "com.spotify.client",
-        "category": "music",
+        "category": "Music",
         "desc": "with Spotilife 1.8"
     }
   ]
