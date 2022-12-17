@@ -80,6 +80,15 @@
         "bundleID": "com.picsart.studio",
         "category": "Shits and Giggles",
         "desc": "Picsart premuim"
+    },
+    {
+        "name": "Tailor",
+        "version": "2.0.4",
+        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Talior.jpg",
+        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Tailor_2.0.4.ipa",
+        "bundleID": "com.foundry63.tailor",
+        "category": "tools",
+        "desc": "Cracked with Satella (allow to merge screenshots for 1 big screenshot)"
     }
   ]
 }
