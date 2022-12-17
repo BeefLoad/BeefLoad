@@ -71,6 +71,16 @@
       "bundleID": "org.bradonplank.flappybird.ipa",
       "category": "Games",
       "description": "The real FlappyBird"
+    },
+    {
+        "name": "PicsArt",
+        "version": "21.3.8",
+        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/PicsArt.jpg",
+        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/PicsArt_21.3.8.ipa",
+        "bundleID": "com.picsart.studio",
+        "category": "Shits and Giggles",
+        "desc": "Picsart premuim"
     }
+]
   ]
 }
