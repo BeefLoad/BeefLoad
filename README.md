@@ -12,7 +12,7 @@ IOS side-loading and jailbreaking are two processes that allow users to access a
 
 Side-loading involves installing apps from sources other than the App Store. This can be done through a variety of methods, such as using a third-party app store or downloading the app directly from the developer's website.
 
-#### <span style="color: green">Pros:
+```# <span style="color: green">Pros:
 - Allows users to access apps that are not available in the App Store, such as those that have been banned or removed for various reasons.
 - Enables users to access apps that are not available in their country.
 
