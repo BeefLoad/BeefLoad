@@ -15,9 +15,9 @@
     },
     {
       "name": "Bazaart",
-      "version": "9.4.1",
+      "version": "9.4.4",
       "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/bazaart.jpg",
-      "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/Bazaart_9.4.1.ipa",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Bazzart_9.4.4.ipa",
       "bundleID": "co.bazaart.app",
       "category": "Shits and Giggles",
       "description": "Bazzart Premium Unlocked"
