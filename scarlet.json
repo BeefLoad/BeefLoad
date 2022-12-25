@@ -43,7 +43,7 @@
     {
       "name": "CamCord",
       "version": "157",
-      "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/CC.jpg",
+      "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/CC.jpeg",
       "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/Camcord157.ipa",
       "dev": "Alex V / CamCordDev",
       "bundleID": "com.hammerandchisel.discord",
