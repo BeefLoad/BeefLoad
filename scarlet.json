@@ -41,10 +41,10 @@
       "description": "uYouPlus v17.43.1_2.1"
     },
     {
-      "name": "CamCord",
+      "name": "BeefCord",
       "version": "157",
-      "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/CC.jpeg",
-      "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/Camcord157.ipa",
+      "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/BFCD.png",
+      "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/BC.ipa",
       "dev": "Alex V / CamCordDev",
       "bundleID": "com.hammerandchisel.discord",
       "category": "Social",
