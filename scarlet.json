@@ -44,14 +44,14 @@
       "name": "BeefCord",
       "version": "157",
       "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/BFCD.png",
-      "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/BC.ipa",
+      "down": "https://github.com/BeefLoad/beefcord/releases/download/beefcord/beefcord.ipa",
       "dev": "Aleex / mrbeef777",
       "bundleID": "com.hammerandchisel.discord",
       "category": "Social",
-      "description": "Discord >> Enmity >> PlumpyCord >> FlowerCord >> CamCord >> BeefCord Messaging Evolved",
+      "description": "Discord But Cooked Well Done (custom enmity x font x custom icons)",
       "contact": {
-        "web": "https://github.com/AlexSpaces",
-        "twitter": "https://twitter.com/CamCordDev"
+        "web": "https://github.com/BeefLoad/beefcord",
+        "twitter": "https://twitter.com/mrbeef777"
       }
     },
     {
