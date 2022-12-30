@@ -44,7 +44,7 @@
       "name": "BeefCord",
       "version": "157",
       "icon": "https://raw.githubusercontent.com/beefload/BeefLoad/icons/BFCD.png",
-      "down": "https://github.com/BeefLoad/beefcord/releases/download/Latest/beefcord.ipa",
+      "down": "https://github.com/BeefLoad/beefcord/releases/download/beefcord/beefcord.ipa",
       "dev": "Aleex / mrbeef777",
       "bundleID": "com.hammerandchisel.discord",
       "category": "Social",
