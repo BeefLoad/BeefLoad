@@ -111,8 +111,8 @@
         {
         "name": "Font Installer (16.1.2 and below)",
         "version": "1.5",
-        "icon": "I will do this ",
-        "down": "i will do this",
+        "icon": " ",
+        "down": "https://github.com/zhuowei/WDBFontOverwrite/releases/download/v1.5/WDBFontOverwrite-1.5.ipa",
         "bundleID": "i will do this",
         "category": “Tools",
         "desc": "Installation of fonts system wide for 16.1.2 and below”
