@@ -113,7 +113,7 @@
         "version": "1.5",
         "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/FI.jpg",
         "down": "https://github.com/zhuowei/WDBFontOverwrite/releases/download/v1.5/WDBFontOverwrite-1.5.ipa",
-        "bundleID": "i will do this",
+        "bundleID": "com.ginsudev.WDBFontOverwrite",
         "category": “Tools",
         "desc": "Installation of fonts system wide for 16.1.2 and below”
     }
