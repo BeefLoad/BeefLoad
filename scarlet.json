@@ -111,7 +111,7 @@
         {
         "name": "Font Installer (16.1.2 and below)",
         "version": "1.5",
-        "icon": " ",
+        "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/FI.jpg",
         "down": "https://github.com/zhuowei/WDBFontOverwrite/releases/download/v1.5/WDBFontOverwrite-1.5.ipa",
         "bundleID": "i will do this",
         "category": “Tools",
