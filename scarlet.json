@@ -11,7 +11,7 @@
       "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/Star.Vpn.3.6.0.ipa",
       "bundleID": "com.peach.app",
       "category": "Tools",
-      "description": "StarVpn 3.6.0 will only work with certs with the right entitlements....So prob wont work for you"
+      "desc": "StarVpn 3.6.0 will only work with certs with the right entitlements....So prob wont work for you"
     },
     {
       "name": "Bazaart",
@@ -20,7 +20,7 @@
       "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Bazzart_9.4.4.ipa",
       "bundleID": "co.bazaart.app",
       "category": "Shits and Giggles",
-      "description": "Bazzart Premium Unlocked"
+      "desc": "Bazzart Premium Unlocked"
     },
     {
       "name": "InstaSpring",
@@ -29,7 +29,7 @@
       "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/InstaSpring.1.0.Fix.ipa",
       "bundleID": "org.haxi0.InstaSpring",
       "category": "Tools",
-      "description": "iOS app that immediately resprings your Device after you open it (IOS 13 AND UP)"
+      "desc": "iOS app that immediately resprings your Device after you open it (IOS 13 AND UP)"
     },
     {
       "name": "uYouPlus",
@@ -38,7 +38,7 @@
       "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/uYouPlus_17.43.1_2.1.ipa",
       "bundleID": "com.google.ios.youtube",
       "category": "Social",
-      "description": "uYouPlus v17.43.1_2.1"
+      "desc": "uYouPlus v17.43.1_2.1"
     },
     {
       "name": "BeefCord",
@@ -48,7 +48,7 @@
       "dev": "Aleex / mrbeef777",
       "bundleID": "com.hammerandchisel.discord",
       "category": "Social",
-      "description": "Discord But its a Steak Cooked Well Done (c:",
+      "desc": "Discord But its a Steak Cooked Well Done (c:",
       "contact": {
         "web": "https://github.com/BeefLoad/beefcord",
         "twitter": "https://twitter.com/mrbeef777"
@@ -61,7 +61,7 @@
       "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/iTorrent.ipa",
       "bundleID": "com.bittorrent.torrent",
       "category": "Tools",
-      "description": "Torrent Client"
+      "desc": "Torrent Client"
     },
     {
       "name": "Flappy Bird",
@@ -70,7 +70,7 @@
       "down": "https://github.com/beefload/BeefLoad/releases/download/ipas/flappybird-4.3.ipa",
       "bundleID": "org.bradonplank.flappybird.ipa",
       "category": "Games",
-      "description": "The real FlappyBird"
+      "desc": "The real FlappyBird"
     },
     {
         "name": "PicsArt",
@@ -97,7 +97,7 @@
         "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Twitter_9.34.6_BHTwitter_3.3.3.ipa",
         "bundleID": "com.atebits.Tweetie2",
         "category": "Social",
-        "description": "BHtwitter"
+        "desc": "BHtwitter"
     },
     {
         "name": "Spotify",
@@ -107,6 +107,15 @@
         "bundleID": "com.spotify.client",
         "category": "Music",
         "desc": "with Spotilife 1.8"
+        },
+        {
+        "name": "Font Installer (16.1.2 and below)",
+        "version": "1.5",
+        "icon": "I will do this ",
+        "down": "i will do this",
+        "bundleID": "i will do this",
+        "category": “Tools",
+        "desc": "Installation of fonts system wide for 16.1.2 and below”
     }
   ]
 }
