@@ -112,9 +112,9 @@
         "name": "Font Installer (16.1.2 and below)",
         "version": "1.5",
         "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/FI.jpg",
-        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/WDBFontOverwrite_1.8.0_iPhone.Distribution.Kadriye.Sahin.SPSF4Q6L3D.@com.ginsudev.WDBFontOverwrite.1.ipa",
+        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/WDBFontOverwrite.1.ipa",
         "bundleID": "com.ginsudev.WDBFontOverwrite",
-        "category": “Tools",
+        "category": "Tools",
         "desc": "Installation of fonts system wide for 16.1.2 and below”
     }
   ]
