@@ -69,40 +69,40 @@
       "desc": "The real FlappyBird"
     },
     {
-        "name": "PicsArt",
-        "version": "21.3.8",
-        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/PicsArt.jpg",
-        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/PicsArt_21.3.8.ipa",
-        "bundleID": "com.picsart.studio",
-        "category": "Shits and Giggles",
-        "desc": "Picsart premuim"
+      "name": "PicsArt",
+      "version": "21.3.8",
+      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/PicsArt.jpg",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/PicsArt_21.3.8.ipa",
+      "bundleID": "com.picsart.studio",
+      "category": "Shits and Giggles",
+      "desc": "Picsart premuim"
     },
     {
-        "name": "Tailor",
-        "version": "2.0.4",
-        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Talior.jpg",
-        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Tailor_2.0.4.ipa",
-        "bundleID": "com.foundry63.tailor",
-        "category": "Tools",
-        "desc": "Cracked with Satella (allow to merge screenshots for 1 big screenshot)"
+      "name": "Tailor",
+      "version": "2.0.4",
+      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Talior.jpg",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Tailor_2.0.4.ipa",
+      "bundleID": "com.foundry63.tailor",
+      "category": "Tools",
+      "desc": "Cracked with Satella (allow to merge screenshots for 1 big screenshot)"
     },
     {
-        "name": "Twitter",
-        "version": "9.34.6",
-        "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/Twitter.png",
-        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Twitter_9.34.6_BHTwitter_3.3.3.ipa",
-        "bundleID": "com.atebits.Tweetie2",
-        "category": "Social",
-        "desc": "BHtwitter"
+      "name": "Twitter",
+      "version": "9.34.6",
+      "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/Twitter.png",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Twitter_9.34.6_BHTwitter_3.3.3.ipa",
+      "bundleID": "com.atebits.Tweetie2",
+      "category": "Social",
+      "desc": "BHtwitter"
     },
     {
-        "name": "Spotify",
-        "version": "8.7.70",
-        "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Spotify.jpg",
-        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Spotilife.ipa",
-        "bundleID": "com.spotify.client",
-        "category": "Music",
-        "desc": "with Spotilife 1.8"
+      "name": "Spotify",
+      "version": "8.7.70",
+      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Spotify.jpg",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Spotilife.ipa",
+      "bundleID": "com.spotify.client",
+      "category": "Music",
+      "desc": "with Spotilife 1.8"
     }
   ]
 }
