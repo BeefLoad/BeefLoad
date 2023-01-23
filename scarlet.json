@@ -107,8 +107,8 @@
         "bundleID": "com.spotify.client",
         "category": "Music",
         "desc": "with Spotilife 1.8"
-        },
-        {
+    },
+    {
         "name": "Font Installer (16.1.2 and below)",
         "version": "1.5",
         "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/FI.jpg",
