@@ -107,15 +107,6 @@
         "bundleID": "com.spotify.client",
         "category": "Music",
         "desc": "with Spotilife 1.8"
-    },
-    {
-        "name": "Font Installer (16.1.2 and below)",
-        "version": "1.5",
-        "icon": "https://github.com/BeefLoad/BeefLoad/raw/icons/FI.jpg",
-        "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/WDBFontOverwrite.1.ipa",
-        "bundleID": "com.ginsudev.WDBFontOverwrite",
-        "category": "Tools",
-        "desc": "Installation of fonts system wide for 16.1.2 and below”
     }
   ]
 }
