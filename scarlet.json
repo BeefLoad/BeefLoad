@@ -103,6 +103,33 @@
       "bundleID": "com.spotify.client",
       "category": "Music",
       "desc": "with Spotilife 1.8"
+    },
+    {
+      "name": "CCenabler ",
+      "version": "i dont know",
+      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/.jpg",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/.ipa",
+      "bundleID": "Com.Beefload.CCenabler ",
+      "category": "Tools",
+      "desc": " CCenable"
+    },
+    {
+      "name": " prefs changer",
+      "version": " ",
+      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/prefs.jpg",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/prefs.ipa",
+      "bundleID": "com.Beefload.Prefs ",
+      "category": "Tools",
+      "desc": "prefs"
+    },
+    {
+      "name": "Troll Lock",
+      "version": "1.1",
+      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/TrollLock.jpg",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/TrollLock.ipa",
+      "bundleID": "com.Beefload.TrollLock",
+      "category": "Tools",
+      "desc": "what the github says"
     }
   ]
 }
