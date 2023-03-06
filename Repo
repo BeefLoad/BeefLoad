@@ -123,10 +123,10 @@
       "desc": "prefs"
     },
     {
-      "name": "Troll Lock",
+      "name": "Egg Inc (Cracked)",
       "version": "1.1",
-      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/TrollLock.jpg",
-      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/TrollLock.ipa",
+      "icon": "https://raw.githubusercontent.com/BeefLoad/BeefLoad/icons/Egg.jpg",
+      "down": "https://github.com/BeefLoad/BeefLoad/releases/download/ipas/Egg.ipa",
       "bundleID": "com.Beefload.TrollLock",
       "category": "Tools",
       "desc": "what the github says"
